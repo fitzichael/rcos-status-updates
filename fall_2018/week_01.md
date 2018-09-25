@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I spent this week learning how to use git and github, as well as familiarizing myself
+with node, which is entirely new to me.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+I'm going to learn how to host the server on my laptop so that I can view progress made on it.
+I'll also start working on the front end of the site, especially to familiarize myself with
+CSS and HTML.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
